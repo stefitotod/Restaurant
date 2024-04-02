@@ -1,2 +1,2 @@
-# Restaurant-
-A repository for my SQL project - Restaurant.
+# Restaurant
+A repository for my SQL project.
