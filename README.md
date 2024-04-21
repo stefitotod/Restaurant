@@ -27,4 +27,4 @@ A repository for my MySQL project.
 заявки, всички останали заявки, решения на задачите от 2 до 9 и
 резултатите от тях.
 
-https://excalidraw.com/#json=W9MHGbPGLC6n_qX4M6AS_,24PH-iYVDktVuC6olVOUNw
+
