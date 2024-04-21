@@ -406,6 +406,7 @@ END
 |
 DELIMITER ;
 
+CALL updateSalaryFromEmployeeWork();
     
 
  
