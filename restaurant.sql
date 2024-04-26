@@ -287,7 +287,7 @@ WHERE category = 'Main courses' AND weight > 230;
 -- task 3
 SELECT employee_id AS ID, MAX(amount) AS MONTH_SALARY
 FROM salary
-WHERE employee_id = 1;
+GROUP BY employee_id;
 
 -- task 4 
 SELECT client_tables.id AS ID, client_tables.capacity AS CAPACITY, reservations.reservation_date AS DATE
